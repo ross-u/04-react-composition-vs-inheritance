@@ -1,8 +1,8 @@
 # React - Components and Props
 
 ```bash
-git clone
-cd
+git clone https://github.com/ross-u/04-react-composition-vs-inheritance.git
+cd 04-react-composition-vs-inheritance
 
 # Install dependencies
 npm install
