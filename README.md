@@ -1,4 +1,4 @@
-# React - Components and Props
+# React - Composition vs Inheritance
 
 ```bash
 git clone https://github.com/ross-u/04-react-composition-vs-inheritance.git
