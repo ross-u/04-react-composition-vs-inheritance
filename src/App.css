@@ -1,0 +1,36 @@
+.App {
+  margin: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile-box {
+  border: 2px solid black;
+}
+
+.SplitPane {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.SplitPane > div {
+  border: 1px solid green;
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+}
+
+.chat li {
+  list-style: none;
+  padding: 10px;
+}
+
+.chat li:nth-child(even) {
+  background: rgba(203, 119, 119, 0.687);
+  text-align: right;
+  display: block;
+}
+
+.chat li:nth-child(odd) {
+  background: rgba(164, 203, 119, 0.687);
+  text-align: left;
+}
