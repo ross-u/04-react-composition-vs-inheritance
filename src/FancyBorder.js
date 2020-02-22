@@ -7,7 +7,7 @@ const age = 30;
 function FancyBorder(props) {
   return (
     <div className="fancy">
-      <h3>Fancy component</h3>
+      <h3>{props.title}</h3>
       {props.children}
       {/* Components placed inside the component tag are available via the `props.children` */}
     </div>

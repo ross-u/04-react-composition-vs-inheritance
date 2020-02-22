@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <FancyBorder>
+        <FancyBorder title="Fancy Border Example">
           <h1>Welcome</h1>
           <p>Thank you for visiting our spacecraft!</p>
         </FancyBorder>

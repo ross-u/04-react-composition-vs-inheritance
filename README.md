@@ -1,9 +1,8 @@
 # React - Components and Props
 
-
 ```bash
-git clone https://github.com/ross-u/React-Components-and-props
-cd React-Components-and-props
+git clone https://github.com/ross-u/04-react-composition-vs-inheritance.git
+cd 04-react-composition-vs-inheritance
 
 # Install dependencies
 npm install
@@ -14,4 +13,3 @@ npm run webpack
 # To create a build (dist/bundle.js) file run
 npm run build
 ```
-
